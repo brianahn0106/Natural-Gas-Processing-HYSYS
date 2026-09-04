@@ -16,7 +16,7 @@ The process includes:
 
 ## Full Technical Report
 
-**[View the complete 30-page technical report](./Integrated_Natural_Gas_Processing_Plant_Design.pdf)**
+**[View the complete technical report](./Integrated_Natural_Gas_Processing_Plant_Design.pdf)**
 
 ## Key Results
 
