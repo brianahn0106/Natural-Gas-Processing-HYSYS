@@ -1,5 +1,3 @@
-# Natural-Gas-Processing-HYSYS
-Aspen HYSYS simulation of an integrated natural gas processing plant with MDEA sweetening, TEG dehydration, NGL recovery, heat integration, and sales-gas compression.
 # Integrated Natural Gas Processing Plant Design Using Aspen HYSYS
 
 Independent chemical engineering process simulation of an integrated natural gas processing plant developed in Aspen HYSYS.
@@ -82,10 +80,6 @@ A closed-loop TEG system reduces the dry-gas water content to approximately 4.53
 </p>
 
 The dry gas is precooled, separated before expansion, and expanded through a turboexpander for additional NGL recovery. Cold residue gas is used for heat integration before two-stage sales-gas compression.
-
-## Full Technical Report
-
-[View the full project report](./Integrated_Natural_Gas_Processing_Plant_Design.pdf)
 
 ## Software
 
