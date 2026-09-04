@@ -85,7 +85,7 @@ The dry gas is precooled, separated before expansion, and expanded through a tur
 
 ## Full Technical Report
 
-[View the full project report](./Integrated_Natural_Gas_Processing_Plant_Design - Brian Ahn.pdf)
+[View the full project report](./Integrated_Natural_Gas_Processing_Plant_Design.pdf)
 
 ## Software
 
