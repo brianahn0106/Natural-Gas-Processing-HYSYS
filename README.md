@@ -57,7 +57,3 @@ Sensitivity studies were performed for TEG circulation rate, NGL cooling tempera
 Brian Ahn  
 B.S. Chemical Engineering  
 Northwestern University
-
-## Note
-
-Aspen HYSYS is a proprietary product of Aspen Technology. This repository contains only project work created for this independent simulation and does not distribute AspenTech software or proprietary training materials.
