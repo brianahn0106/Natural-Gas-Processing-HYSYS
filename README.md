@@ -16,6 +16,10 @@ The process includes:
 - Screening-level energy and economic analysis
 - Simplified HAZOP review
 
+## Full Technical Report
+
+**[View the complete 30-page technical report](./Integrated_Natural_Gas_Processing_Plant_Design.pdf)**
+
 ## Key Results
 
 | Metric | Result |
@@ -36,11 +40,48 @@ The process includes:
 
 ## Process Overview
 
+![Integrated natural gas processing plant process overview](figures/overall_pfd.png)
 The model begins with inlet cooling and separation followed by MDEA sweetening and TEG dehydration. The dry gas is then cooled for NGL recovery, where JT throttling and turboexpansion were compared. A turboexpander was selected for the final configuration.
+
+
 
 Cold residue gas from the NGL separator was then used to precool the incoming process stream, significantly reducing the external refrigeration requirement. The residue gas was finally recompressed in two stages to the selected sales-gas pressure.
 
 Sensitivity studies were performed for TEG circulation rate, NGL cooling temperature, and turboexpander outlet pressure.
+
+## Selected HYSYS Flowsheets
+
+### Inlet Cooling and Separation
+
+<p align="center">
+  <img src="figures/part1_pfd.png" width="75%">
+</p>
+
+Raw natural gas is cooled in E-100 and sent to the V-100 inlet separator to remove condensed liquid before MDEA treatment.
+
+### MDEA Sweetening and Regeneration
+
+<p align="center">
+  <img src="figures/mdea_pfd.png" width="90%">
+</p>
+
+The MDEA section removes essentially all H2S and reduces CO2 from 2.50 mol% to approximately 1.84 mol%. Rich solvent is flashed and regenerated before being recycled to the absorber.
+
+### TEG Dehydration and Regeneration
+
+<p align="center">
+  <img src="figures/teg_pfd.png" width="90%">
+</p>
+
+A closed-loop TEG system reduces the dry-gas water content to approximately 4.53 lb H2O/MMscf before low-temperature NGL recovery.
+
+### NGL Recovery, Heat Integration, and Compression
+
+<p align="center">
+  <img src="figures/ngl_pfd.png" width="90%">
+</p>
+
+The dry gas is precooled, separated before expansion, and expanded through a turboexpander for additional NGL recovery. Cold residue gas is used for heat integration before two-stage sales-gas compression.
 
 ## Full Technical Report
 
